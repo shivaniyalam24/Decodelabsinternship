@@ -1,0 +1,1 @@
+The Rule-Based Chatbot is a simple Artificial Intelligence project developed as part of the AI Internship at Decode Labs. This chatbot interacts with users by identifying keywords in their input and providing predefined responses.
